@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The relation of the tryal and condemnation of Edvvard FitzHarris and Oliver Plunket who were tryed at the Kings-Bench on the 8th and 9th of this instant June, 1681, and there found guilty and condemned for high treason, for conspiring the death of the king, and to subvert the Protestant religion and government, by raising rebellion and leavying warr : with their last speeches and confessions at the place of execution.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92381</idno>
+            <idno type="STC">Wing R881A</idno>
+            <idno type="STC">ESTC R42558</idno>
+            <idno type="EEBO-CITATION">36282323</idno>
+            <idno type="OCLC">ocm 36282323</idno>
+            <idno type="VID">150220</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92381)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150220)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2236:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The relation of the tryal and condemnation of Edvvard FitzHarris and Oliver Plunket who were tryed at the Kings-Bench on the 8th and 9th of this instant June, 1681, and there found guilty and condemned for high treason, for conspiring the death of the king, and to subvert the Protestant religion and government, by raising rebellion and leavying warr : with their last speeches and confessions at the place of execution.</title>
+                  <author>Plunket, Oliver, Saint, 1629-1681.</author>
+                  <author>Fitzharris, Edward, 1648?-1681.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by H. Brugis,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>in the Year 1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing (2nd ed.).</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Plunket, Oliver, --  Saint, 1629-1681.</term>
+               <term>Fitzharris, Edward, 1648?-1681.</term>
+               <term>Popish Plot, 1678.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:150220:1" rendition="simple:additions"/>
+            <p>The RELATION Of the Tryal and Condemnation of Edvvard Fitz Harris, AND Oliver Plunket Who were Tryed at the <hi>Kings-Bench</hi> on the 8th. and 9th. of this Inſtant <hi>June,</hi> 1681. And there found guilty and <hi>Condemned</hi> for HIGH TREASON: For Conſpiring the Death of the KING, and to Subvert the Proteſtant Religion and Government, by raiſing <hi>Rebellion</hi> and Leavying Warr.</p>
+            <p>With their laſt Speeches and Confeſſion at the place of EXECUTION.</p>
+            <p>Printed by <hi>H. Brugis,</hi> in the Year 1681.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:150220:2"/>
+            <head>
+               <hi>The Relation of the Tryals of</hi> Edward Fitz-Harris, <hi>and</hi> Oliver Plunket, <hi>who</hi> were tryed at the <hi>Kings-Bench.</hi> &amp;c.</head>
+            <p>
+               <hi>EDward Fitz-Harris</hi> (the Debate about whoſe Tryal has filled all people with a longing expectation to know the Event.</p>
+            <p>It being a matter of a more than ordinary Nature, and attended with circumſtances not uſuall.) having his Plea overruled: by which he pleaded to the Jurisdiction of the Court of <hi>Kings-Bench</hi> laſt Term, and then ordered to prepare for his Tryal the firſt <hi>Thurſday</hi> in <hi>Eaſter</hi> Term; was by a Rule of Court brought from the <hi>Tower</hi> to <hi>Weſtminſter Hall,</hi> where being ſet to the Barr: It was moved by Council, That he might be examined as to ſome particular points of Diſcovery, before he entered upon his Tryal; but the Court declared it could not then be granted: and if he would have made any diſcovery, he ſhould have done it when he was upon Examination for that purpoſe: So that ſilence being pro<g ref="char:EOLhyphen"/>claimed; the Jury were called, who were all Freeholders in the County of <hi>Middleſex,</hi> and after ſome exceptions (both for the King and the Priſoner) twelve were ſworn, and then his Indictment was read, which contained ſuch Treaſons as are ſcarcely fit to be ſo much as mentioned; As to particulars, but in general to this Effect, that <hi>Edward Fitz-Harris</hi> the Priſoner at the Barr, as a falſe Traytor to our Soveraign Lord the King, had Maliciouſly and Trayterouſly conſpired againſt His Crown and Dignity, intending Him to depoſe and murther by raiſing Rebellion and Leavying War to enſlave the Nation to a Forreign Power, to introduce Popery and Arbitray Government: in order to the effecting which he had written, or cauſed to be written and deſigned to be diſ<g ref="char:EOLhyphen"/>perſed
+<pb facs="tcp:150220:2"/>amongſt His Majeſties Leige Subjects, a Scandalous and Treaſonable Libill, Intituled, <hi>The true Engliſh Man ſpeaking plain Engliſh.</hi> &amp;c.</p>
+            <p>As for the Treaſons mentioned in the Libell, upon which the Indictment was grounded, (which likewiſe was produced and read in Court) I ſhall forbear to mention, becauſe I do not imagine them fit to be publiſhed: but their deſigned Effects (had not Heaven prevented) were to create a miſun<g ref="char:EOLhyphen"/>derſtanding between the King and His people; to ſtir up fears and Jelouſies, to render Him odious and contemptable to His Subjects, to terrifie them with apprehenſions of Ar<g ref="char:EOLhyphen"/>bitrary Government Popery and ſlavery; not only to de<g ref="char:EOLhyphen"/>grade His Majeſties Royal Aunceſtors (of bleſſed Memory) to lay a blot upon His Majeſty and His Poſterity, and in fine to blow up a flame of Civil War amongſt us: that the French and the Papiſt to be raiſed in <hi>England</hi> might have fallen up<g ref="char:EOLhyphen"/>on when divided, and have put us all to the Sword; this was Jeſuitick Policy to the Life, and out did (if it be poſſible) Hell it ſelf.</p>
+            <p>To this Indictment he pleaded not guilty, and for his Tryal, put himſelf upon God and the Countrey, when as Mr. <hi>Atorney General</hi> opened the Indictment to the Jury, tell<g ref="char:EOLhyphen"/>ing them the Heighnouſneſs of the Crime, and that not only the Kings Life was concerned in it, but likewiſe theirs, and every Proteſtants in <hi>England, Scotland,</hi> and <hi>Ireland:</hi> and that we had all been immediately deſtroyed, had it taken Effect after him; the Kings Soliciter, and Sr. <hi>George Geffery</hi> the Kings Councellour opened it to the ſame Effect, when as Mr. <hi>Edmund Everard</hi> one of the Kings witneſſes, was called and ſworn: who teſtified that <hi>Fitz-Harris</hi> the Priſoner at the Barr, about the 21. of <hi>Feb.</hi> 1681. Came to him at his Chamber in <hi>Grays Inn:</hi> and having had ſome ſmall acquaint<g ref="char:EOLhyphen"/>tance with him in the French Army, he ſaluted him, and
+<pb facs="tcp:150220:3"/>deſired that they might renew it: after which he fell into a diſcourſe how hardly Mr. <hi>Everard</hi> had been uſed ſince he left the Catholick to eſpouſe the Proteſtant intereſt: telling withall, that if he would joyn with the Popiſh Party, and be aſiſting to them, he ſhould be well provided for, and that it would be very advantagious to him; to this the witneſs ſeemingly conſented to, after which he grew bolder in his diſcourſe, that he had a deſign to have ſomething writ, and knowing him a man Capable to undertake it, he would communicate it, which proved to be the Libell or Horrid Treaſon: for which he was afterward apprehended, and now tryed; the which Mr. <hi>Everard</hi> conſented too and took his Inſtructions, appointing a time when the Priſoner ſhould call for it: but in the mean time he acquainted ſeveral worthy Gentlemen with what had paſſed; who adviſed him to be ſecret, that ſo he might find out the bottom of the de<g ref="char:EOLhyphen"/>ſign, which he promiſed to do: and thereupon went to Sr. <hi>William Waller,</hi> and Mr. <hi>Smith</hi> one of the Diſcoverers of the PLOT, who promiſed him their aſſiſtance, who coming by themſelves at two ſeveral times when <hi>Fitz-Harris</hi> had appointed to be there: Mr. <hi>Everard</hi> placed them ſo that they might not only ſee the Priſoner, but overhear every word, yet they remaine undiſcovered; by this means the whole deſign was layed open? for the Priſoner not in the leaſt miſtruſting any: who peeping through a Crevice, heard him diſcourſe about the Libell, and ſeem ſomewhat diſpleaſed that it was not done. As likewiſe the ſaid Mr. <hi>Smith</hi> heard him promiſe Mr. <hi>Everard</hi> a great reward, which ſhould be given him by the French Ambaſſador for his better en<g ref="char:EOLhyphen"/>couragement, and that he ſhould be entered a Penſioner under the French King, and ſome thouſands of Crowns beſides an Anuall Penſion: for ſaid he that King cares not what Moneys he diſburſts, ſo he can accompliſh his Deſigns, and that he
+<pb facs="tcp:150220:3"/>was to have Forty Guineys from the French Ambaſſadors Confeſſor as ſoon as he had compleated the Libell: which Li<g ref="char:EOLhyphen"/>bell this Evidence ſaw him take up and read, croſſing out and putting in as he thovght fit, and that when this Libell was finiſhed and diſperſed, ſo that it had ſet the people a madding, that Mr. <hi>Everard</hi> ſhould go to Common Council and Citizens of <hi>London</hi> to Incence them againſt the King, and perſwade them to offer ſome Hundred Thouſand of Pounds to the Parliament to ſit at <hi>Oxford,</hi> to promiſe to ſtand by him with their Lives and Fortunes, to riſe all as one Man, and not to Disband till their (pretended) grievances were ſetled.</p>
+            <p>Theſe and ſuch like Treaſonable Practices were uſed by this Impious Traytor, to overthrow the Government and introduce a French Power: which he ſaid would firſt Con<g ref="char:EOLhyphen"/>quer <hi>Flanders</hi> and the low Countries, and then falling upon us, divided amongſt our ſelves, would devour us at a Morſell. For ſo were his Expreſſions.</p>
+            <p>The next which gave Evidence was Sr. <hi>VVilliam VValler,</hi> who was likewiſe placed by Mr. <hi>Everard</hi> to over-hear his diſcourſe, who ſaw the Papers before <hi>Fitz-Harris</hi> came: to which he gave a private mark that he might know them again; then he ſaw <hi>Fitz-Harris</hi> come in and heard him ask for um, the which when Mr. <hi>Everard</hi> delivered, he peruſed, and after having croſſed out what he thought fit, and Incerted ſeveral Sentences, he returned them to be fair written over: and when Mr. <hi>Everard</hi> began to boggle; Saying, <hi>That it was a Treaſon of a very high Nature, and he knew not what to think of it.</hi> Then <hi>Fitz-Harris</hi> replyed, the more Treaſon the better, am not I as deeply concern'd in it as you, have you not part of it under my Hand.</p>
+            <p>Mr. <hi>Everard</hi> being again Examined what was to be done with them, he ſaid <hi>Fitz-Harris</hi> told him they were to be diſperſed in Penny Poſt Letters, and put into peoples Pockets
+<pb facs="tcp:150220:4"/>and eſpecially into ſome of the Proteſtant Lords, who there<g ref="char:EOLhyphen"/>upon were to be apprehended as Traytors, &amp;c.</p>
+            <p>There were two more Evidences againſt him, but thoſe not very Meteriall, therefore I ſhall omit, only Sr. <hi>Phillip Floyd</hi> gave teſtimony that the Priſoner had confeſſed a Treaſonable paper to be his own Hand writing.</p>
+            <p>After theſe and many other tedious Circumſtances had poſſeſſed, the Kings Councill ſummed up the Evidence, lay<g ref="char:EOLhyphen"/>ing open the Heighnouſneſs of the Crime in all its particulars? after which the Court gave the Jury their charge, and having ſatisfied them in ſome Scrupulous Queries they ſtarted in Relation, the <hi>Priſoner</hi> having been Impeached by the Houſe of Commons, they went out, and after an hours Debate And on the 15th. of this inſtant <hi>June</hi> 1681 <hi>Oliver Plunket</hi> &amp; <hi>Fitz-Harris</hi> were generally ſentenced to be drawn hangd &amp; quarted.</p>
+         </div>
+         <div type="speech">
+            <head>Mr. <hi>Fitz-Harrys's</hi> Speech at his Execution at <hi>Ty<g ref="char:EOLhyphen"/>burn</hi> July 1. 1681.</head>
+            <p>
+               <hi>GOod People, This Infamous kind of Death is much more irksome to me than Death it ſelf: Such a Judgement as this my Sins againſt God may juſtly bring upon me, and I do moſt humbly ſubmit unto it. But as to the Crimes which I now die for, I take God to Witneſs, I was no further concerned in the Libel, than to diſcover to the King what Pra<g ref="char:EOLhyphen"/>ctiſes of that kind were againſt him, being employed for that end, though thoſe that employed me refuſed to do me Juſtice at my Trial. And I call God to witneſs I never had a Farthing of Money of the King in my life, but on the Account of the like Service. And as to the Witneſſes that have Sworn againſt me I do here ſolemnly declare, now at my Death, that I have not ſeen the</hi> French <hi>Ambaſſadour ſince the beginning of the breaking out of the Plot, neither have I had any acquaintance with him. And as to his Confeſſour, I never spoke with him in my life; neither have I had any dealing, either directly or indirectly in my life with them, though Sir</hi> Will. Waller <hi>and the reſt Swore moſt falſly to the contrary. And how like it is that the</hi> French <hi>Ambaſſadour would give three thouſand Crowns for Writing that Libel, I leave the world to judge. I forgive all the World, and do hope that God will forgive me. I beg the Prayers of all good People for a happy Paſſage into the other World.</hi>
+            </p>
+            <closer>
+               <signed>EDWARD FITZ-HARRIS.</signed>
+            </closer>
+         </div>
+         <div type="speech">
+            <pb facs="tcp:150220:4"/>
+            <head>The laſt ſpeech of <hi>Mr. Oliver Plunket</hi> Titular Primate of Ireland, who was Executed at Tyburn on <hi>Friday</hi> the 1ſt. of this inſtant July, 1681. Written by his own hand.</head>
+            <p>I <hi>Have ſome few daies paſt abided my Tryal at the Kings Bench, and now very ſoon I muſt hold up my hand at the King of King's Bench, and appear before a Judge who cannot be deceived by falſe Witneſſes, for he knoweth the ſecrets of Hearts, he being all goodneſs, and a moſt juſt judge, will infallibly decree an E<g ref="char:EOLhyphen"/>ternal reward for all good works, and condign puniſhment for the ſmalleſt tranſgre<g ref="char:EOLhyphen"/>ſſion againſt his Commandements.</hi> Which being a moſt certain and undoubted Truth; it would be a wicked Act, that I ſhould now by declaring any thing contrary to Truth commit a deteſtable ſin, for which within a very ſhort time I muſt receive ſentence of everlaſting Damnation, after which there is no Re<g ref="char:EOLhyphen"/>prieve or hope of Pardon. I will therefore Confeſs the Truth, without any E<g ref="char:EOLhyphen"/>quivocation, and I proteſt upon the word of a Dying man, and as I hope for Salvation at the Hands of the ſupream Judge, that I will declare the Naked Truth with all Candor and Sincerity: And that my Affairs may be better known to all the world. <hi>Tis to be obſerved that I have been Accuſed in</hi> Ireland <hi>of Treaſon and</hi> Praemunire, <hi>and that there I was Arraigned and brought to my Tryal; but the Proſecutors (men of Flagitious and Infamous Lives) perceiving that I had Records and Witneſſes who would evidently convince them, and clearly ſhew my Innocency, &amp; their wickedneſs; they voluntarily abſented themſelves, and came to this City that I ſhould be brought hither to my Trial: Here after ſix Months cloſe Impriſonment I was brought to the Bar the</hi> 3d <hi>of</hi> May, <hi>and Arraigned for a Crime for which I was before Arraigned in</hi> Ireland: <hi>A ſtrange Reſolution, a rare Fact, of which you will hardly find a Precedent theſe</hi> 500 <hi>Years paſt: But whereas my Witneſſes and Records were in</hi> Ireland, <hi>the Lord Chief Juſtice gave me five weeks time to get them brought hither, but by Reaſon of the uncertainty of the Seas, of wind and weather, I could not get them hither, I therefore begged for</hi> 12 <hi>daies more which the Lord Chief Juſtice denied. ſo I was brought to my Trial, Accuſing me of theſe following points.</hi> Firſt that I have ſent Letters by one <hi>Nial O Neal</hi> who was my Page to Monſieur <hi>Baldeſchi,</hi> the Popes Secretary, to the Biſhop of Aix, and to <hi>Principe Colonna,</hi> that they might ſolicit Forrain Powers to invade <hi>Ireland,</hi> and alſo to have ſent Letters to Cardinal <hi>Bullion</hi> to the ſame effect. 2ly. to have imployed Captain <hi>Con O Neal</hi> to the French King for ſuccour. 3ly. To have Levied and Exacted Monies from the Clergy of <hi>Ireland</hi> to bring in the French, and to maintain 70000 men. 4ly. To have had in readineſs 70000 men, and Liſts made of them. 5ly. To have ſurrounded all the Forts and Harbours of <hi>Ireland,</hi> for the Frenches Landing. To all which I anſwer, as I hope for ſal<g ref="char:EOLhyphen"/>vation I never ſent Letters, raiſed ſums, or Plotted againſt my King &amp; Coun<g ref="char:EOLhyphen"/>trey.</p>
+            <pb facs="tcp:150220:5"/>
+            <p>
+               <hi>You ſee therefore what a Condition I am in, and you have heard what Proteſtati<g ref="char:EOLhyphen"/>ons I have made of my Innocency, &amp; I hope you will believe the words of a dying man; And that you may be the more induced to give me credit, I aſſure you, That a great Peer ſent me notice,</hi> That he would ſave my life, if I would accuſe others. <hi>but I anſwered,</hi> That I never knew of any Conſpirators in <hi>Ireland,</hi> but ſuch <hi>(as I ſaid before)</hi> as were publickly known Outlaws; And that, to ſave my Life, I would not falſly accuſe any, nor prejudice my own Soul. <hi>Quid prodeſt homini,</hi> &amp;c. To take away any man's Life or Goods wrongfully, ill becometh any Chriſtian, eſpecially a man of my Calling, being a Clergy-man of the Catho<g ref="char:EOLhyphen"/>lick Church, and alſo an unworthy Prelate, which I now openly confeſs. <hi>Nei<g ref="char:EOLhyphen"/>ther will I deny to have exerciſed in</hi> Ireland <hi>the Functions of a Catholick Prelate, as long as there was any Connivance or Toleration; and by Preaching, and Teach<g ref="char:EOLhyphen"/>ing, and Statutes, to have endeavoured to bring the Clergy (of which I had a care) to a due comportment, according to their Calling; and tho' thereby I did but my duty, yet ſome who would not amend had a prejudice for me, and eſpecially my Accuſers, to whom I did endeavour to do good; I mean the Clergy-men, (as for the four Lay<g ref="char:EOLhyphen"/>men who appeared againſt me,</hi> viz. Florence Mac-Moyer, <hi>the</hi> 2 Neals, <hi>and</hi> Han<g ref="char:EOLhyphen"/>lon, <hi>I was never acquainted with them;) but you ſee how I am requited, and how by falſe Oaths they brought me to this untimely death; which wicked act being a defect of Perſons, ought not to reflect upon the Order of S.</hi> Francis, <hi>or upon the</hi> Roman <hi>Catholick Clergy. It being well known, that there was a</hi> Judas <hi>among the</hi> 12 <hi>Apoſtles, and a wicked man called</hi> Nicholas <hi>amongſt the ſeven Diacons; And even, as one of the ſaid Diacons, to wit, holy</hi> Stephen, <hi>did pray for thoſe who ſtoned him to death; ſo do I, for thoſe who with</hi> Perjuries <hi>ſpill my Innocent Blood, ſaying, as St.</hi> Stephen <hi>did,</hi> O Lord lay not this Sin to them. <hi>I do heartily forgive them, and alſo the Judges, who (by denying me ſufficient time to bring my Records and Witneſſes from</hi> Ireland) <hi>did expoſe my Life to evident danger. I do alſo forgive all thoſe who had a hand in bringing me from</hi> Ireland <hi>to be tryed here, where it was morally impoſſible for me to have a fair Tryal. I do finally forgive all who did con<g ref="char:EOLhyphen"/>cur, directly or indirectly, to take away my Life, and I ask forgiveneſs of all thoſe whom I ever offended by Thought, Word, or Deed.</hi>
+            </p>
+            <p>I <hi>beſeech the All-powerful, That his Divine Majeſty grant our King, Queen, and the Duke of</hi> York, <hi>and all the Royal Family, Health, long Life, and all Proſperity in this world, and in the next everlaſting felicity.</hi>
+            </p>
+            <p>To the final ſatisfaction of all Perſons, that have the Charity to believe the Words of a Dying Man; I again declare before God, as I hope for Salvation, what is contained in this Paper, is the plain and naked truth without any Equivocation, Mental Reſervation, or ſecret Evaſion whatſoever; taking the Words in their uſual ſenſe and meaning, as Proteſtants do, when they diſcourſe with all Candour and ſincerity. To all which I have here ſubſcribed my Hand,</p>
+            <closer>
+               <signed>OLIVER PLUNKET.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:150220:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
